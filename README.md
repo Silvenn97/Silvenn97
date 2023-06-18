@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Silven
-- 👀 I’m interested in Game Developement
-- 🌱 I’m currently studying NISE
+- Game Developer( C# , Java , C++ )
 - 📫 How to reach me 
     Discord:s1lven
